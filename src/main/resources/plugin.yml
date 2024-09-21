@@ -1,0 +1,8 @@
+main: de.mxzx.Main
+author: mxmedia
+version: 0.0.1
+name: testef
+commands:
+    test:
+      aliases:
+        - test2

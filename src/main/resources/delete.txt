@@ -1,0 +1,11 @@
+rewrite:
+season
+clanquest
+punishment
+ams
+mines
+warp
+killed:
+enderchest
+prefix
+kits
